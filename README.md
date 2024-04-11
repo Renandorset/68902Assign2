@@ -1,6 +1,16 @@
-# 68902Assign2
-Renan Barbosa 68902
+# Mobile App Assignment
+Renan Barbosa
+11/04/2024
 
+ ![image](https://github.com/Renandorset/68902Assign2/assets/144677047/966039fa-ada4-4772-b651-7004752cc264)
+
+ 
+ ![image](https://github.com/Renandorset/68902Assign2/assets/144677047/c24a945e-0ebd-4415-af52-0c752f890550)
+![image](https://github.com/Renandorset/68902Assign2/assets/144677047/20f3e707-48c5-4f70-8174-039b7a3bafd2)
+
+![image](https://github.com/Renandorset/68902Assign2/assets/144677047/1479b0a6-a911-4551-bbfd-9fa886f9ce99)
+
+ 
 Difficulties and challenges encountered in carrying out the project.
 
 Introduction
@@ -20,3 +30,4 @@ I improved my knowledge, did a lot of research and finally managed to deal with 
 
 Conclusion
 There were many challenges in creating this application, however, when I realized where I was tasked, I focused my efforts on where I would actually resolve the er-rors, so I was able to create an application that guarantees good use for the user.
+
